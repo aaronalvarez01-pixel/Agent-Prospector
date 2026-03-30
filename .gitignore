@@ -1,0 +1,22 @@
+# Environment & secrets
+.env
+
+# Database (local data, not for version control)
+prospects.db
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
